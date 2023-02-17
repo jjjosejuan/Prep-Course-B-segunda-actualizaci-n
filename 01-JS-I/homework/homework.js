@@ -1,8 +1,8 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
-aqui generando un archivo para ejemplificar manejo local y nube.aqui
+const nuevaString = null;okok
+
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
